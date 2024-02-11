@@ -31,7 +31,7 @@ The Guess My Number App is a fun and interactive game designed to test your gues
 
 ### Feedback and Support:
 
-I value your feedback and strive to continuously improve the Guess My Number App to enhance your gaming experience. If you encounter any issues, have suggestions for new features, or simply want to share your thoughts, please don't hesitate to reach out to me at [anas1255.ma@gmail.com]. Your feedback is invaluable in helping us shape the future of the app.
+I value your feedback and strive to continuously improve the Guess My Number App to enhance your gaming experience. If you encounter any issues, have suggestions for new features, or simply want to share your thoughts, please don't hesitate to reach out to me at [anas1255.ma@gmail.com]. Your feedback is invaluable in helping me shape the future of the app.
 
 ### Let the Guessing Begin!
 
